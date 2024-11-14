@@ -1,6 +1,3 @@
-# Infosys_5.0_Sign_Language_Prediction
-"Sign Language Recognition App: Enhancing inclusivity by translating sign language gestures into text, bridging communication gaps for all users."
-```markdown
 # Sign Language Recognition App
 
 The Sign Language Recognition App is a groundbreaking tool aimed at promoting inclusivity and accessibility in communication. By leveraging cutting-edge machine learning technology, this app interprets sign language gestures and converts them into readable text, bridging the communication gap between individuals with hearing or speech impairments and those unfamiliar with sign language.
@@ -39,17 +36,7 @@ Our mission is to develop intuitive, high-quality solutions that simplify everyd
 2. Clone this repository:
    ```bash
    git clone https://github.com/username/Sign-Language-Recognition-App.git
-   ```
-3. Create a virtual environment and activate it:
-   ```bash
-   python -m venv .venv
-   .venv\Scripts\activate  # For Windows
-   source .venv/bin/activate  # For macOS/Linux
-   ```
-4. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ### Dataset
 Our app currently uses the WSAL (World Sign Language) dataset. Place the dataset files in the `data/` directory, structured as follows:
