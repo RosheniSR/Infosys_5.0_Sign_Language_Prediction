@@ -40,11 +40,10 @@ Our mission is to develop intuitive, high-quality solutions that simplify everyd
 
 ### Dataset
 Our app currently uses the WSAL (World Sign Language) dataset. Place the dataset files in the `data/` directory, structured as follows:
-
+https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed
 ```
 data/
 ├── train/
-├── test/
 └── validation/
 ```
 
