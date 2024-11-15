@@ -27,16 +27,11 @@ Our mission is to develop intuitive, high-quality solutions that simplify everyd
 - `models/`: Directory to save trained models.
 - `notebooks/`: Jupyter notebooks used for exploratory data analysis and initial prototyping.
 - `src/`: Contains main code files for the application.
-- `requirements.txt`: Lists dependencies required to run the project.
 
 ## Getting Started
 
 ### Prerequisites
 1. Install Python 3.8 or higher.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/username/Sign-Language-Recognition-App.git
-
 
 ### Dataset
 Our app currently uses the WSAL (World Sign Language) dataset. Place the dataset files in the `data/` directory, structured as follows:
@@ -63,8 +58,6 @@ python src/train_model.py
 ## Contributing
 We welcome contributions! Please open an issue or submit a pull request for any feature requests or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - The creators of the WSAL dataset
@@ -72,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors who have made this project possible.
 
 ## Contact
-For more information, please reach out to [Your Name](mailto:youremail@example.com).
+For more information, please reach out to (rosheniramesh@gmail.com).
 
 ---
 
